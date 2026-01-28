@@ -1,1 +1,16 @@
-{}
+{
+  "accentColor": "#4f4f4f",
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "TTRPGCallouts",
+    "BetterLeafletIcons",
+    "Banned_Fade",
+    "supercharged-links-gen",
+    "BOTCallouts"
+  ],
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": false,
+  "theme": "obsidian",
+  "baseFontSize": 15
+}
